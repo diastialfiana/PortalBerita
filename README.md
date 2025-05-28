@@ -1,5 +1,6 @@
 Portal Berita Digital Berbasis Laravel
-Deskripsi
+
+
 Proyek ini merupakan hasil magang di PT. Winnicode Garuda Teknologi sebagai bagian dari pengembangan kompetensi profesional dalam bidang web development.
 Portal Berita Digital ini dibuat untuk menyediakan akses informasi yang cepat, akurat, dan mudah dijangkau oleh masyarakat melalui berbagai perangkat digital.
 Selama proses pengembangan, digunakan framework Laravel untuk backend, TailwindCSS untuk styling, serta JavaScript dan integrasi API eksternal untuk fitur-fitur interaktif.
@@ -8,7 +9,7 @@ Selama proses pengembangan, digunakan framework Laravel untuk backend, TailwindC
 
 Cara Instalasi
 Clone repository ini:
-git clone https://github.com/username/portal-berita.git  
+git clone https://github.com/diastialfiana/PortalBerita.git
 Masuk ke direktori proyek:
 cd portal-berita  
 Install dependencies menggunakan Composer:
